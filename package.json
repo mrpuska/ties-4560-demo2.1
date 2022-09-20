@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "circular-json": "^0.5.9",
+    "express": "^4.18.1",
+    "soap": "^0.45.0"
+  }
+}
